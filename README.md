@@ -9,3 +9,6 @@ As a starter, add your name to this file and figure out to get it pushed to the 
 3. Push to your branch
 4. File a Pull request (to the master) from your branch (easiest way is on github.com)
 5. Accept your Pull Request through Dot-Slash
+
+Run the site using python3 or node
+python3 -m http.server
