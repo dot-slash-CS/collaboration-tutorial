@@ -1,5 +1,5 @@
 # Collaboration Tutorial
-Pirjot Atwal
+1. Pirjot Atwal
 
 Feel free to collaborate.
 
