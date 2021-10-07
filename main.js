@@ -12,6 +12,7 @@
  */
 function printHello(name) {
     console.log("Hello " + name + "!");
+    console.log("Welcome!");
 }
 
 printHello("User!");

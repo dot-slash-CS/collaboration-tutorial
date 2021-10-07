@@ -1,5 +1,7 @@
 # Collaboration Tutorial
 Jason Nguyen
+Nicole Phan
+Pirjot Atwal
 
 Feel free to collaborate.
 
