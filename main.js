@@ -16,3 +16,7 @@ function printHello(name) {
 }
 
 printHello("User!");
+
+function yes() {
+    console.log("yes")
+}
