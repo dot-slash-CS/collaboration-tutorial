@@ -1,9 +1,10 @@
 # Collaboration Tutorial
-Jason Nguyen
-Nicole Phan
 Pirjot Atwal
 Preyasi Shah 
-Feel free to collaborate.
+Prachi Shah
+Jason Nguyen
+Nicole Phan
+Feel free to collaborate. 
 
 As a starter, add your name to this file and figure out to get it pushed to the master repository.
 
@@ -15,3 +16,6 @@ As a starter, add your name to this file and figure out to get it pushed to the 
 
 Run the site using python3 or node
 python3 -m http.server
+The above line uses the python module http.server.
+Prachi Shah
+I 
