@@ -2,8 +2,8 @@
 Jason Nguyen
 Nicole Phan
 Pirjot Atwal
-Preyasi Shah 
-gi
+Prachi Shah
+Prachi Shah
 Feel free to collaborate.
 
 As a starter, add your name to this file and figure out to get it pushed to the master repository.
