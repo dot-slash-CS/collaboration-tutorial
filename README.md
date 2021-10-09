@@ -1,9 +1,10 @@
 # Collaboration Tutorial
-Jason Nguyen
-Nicole Phan
 Pirjot Atwal
+THIS IS NEW LINE
 Preyasi Shah 
 Prachi Shah
+Jason Nguyen
+Nicole Phan
 
 
 
@@ -19,3 +20,4 @@ As a starter, add your name to this file and figure out to get it pushed to the 
 
 Run the site using python3 or node
 python3 -m http.server
+The above line uses the python module http.server.
