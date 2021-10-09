@@ -1,10 +1,11 @@
 # Collaboration Tutorial
+Pirjot Atwal
+Preyasi Shah 
+Prachi Shah
 Jason Nguyen
 Nicole Phan
-Pirjot Atwal
-Prachi Shah
-Prachi Shah
-Feel free to collaborate.
+
+Feel free to collaborate. adfadf
 
 As a starter, add your name to this file and figure out to get it pushed to the master repository.
 
@@ -16,5 +17,6 @@ As a starter, add your name to this file and figure out to get it pushed to the 
 
 Run the site using python3 or node
 python3 -m http.server
+The above line uses the python module http.server.
 Prachi Shah
 I 
