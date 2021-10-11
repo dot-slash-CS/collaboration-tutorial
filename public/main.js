@@ -25,7 +25,7 @@ function attachAction() {
             headers: {
                 "Content-Type": "application/json"
             },
-            body: JSON.stringify({class: "Math-101A"})
+            body: JSON.stringify({class: "Math-101A", MONEY:5.00})
         }
         let response = await fetch('/add-class', options);
         console.log(await response.json());
