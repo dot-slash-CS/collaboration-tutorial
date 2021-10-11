@@ -4,6 +4,7 @@ Preyasi Shah
 Prachi Shah
 Jason Nguyen
 Nicole Phan
+Jerry Liang
 Feel free to collaborate. 
 
 As a starter, add your name to this file and figure out to get it pushed to the master repository.
